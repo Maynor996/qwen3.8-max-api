@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maynor996.github.io/qwen3.8-max-api/sitemap.xml
