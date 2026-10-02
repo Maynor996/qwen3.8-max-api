@@ -1,3 +1,5 @@
+> 本文已迁移：[Qwen3.8 Max API 国内中转调用指南：价格、教程与代码（2026）](https://docs.tryallapi.com/qwen3.8-max-api/)
+
 # Qwen3.8 Max API 国内中转调用指南（2026年最新）
 
 > 作者：MaynorAI｜首发：2026-10-02｜最后更新：2026-10-02
